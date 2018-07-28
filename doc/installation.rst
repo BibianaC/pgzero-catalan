@@ -1,20 +1,20 @@
-Installing Pygame Zero
-======================
+Instal·lació de Pygame Zero
+===========================
 
-On desktop systems
-~~~~~~~~~~~~~~~~~~
+En ordinadors de sobretaula
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ::
 
-    pip install pgzero
+     pip install pgzero
 
-This will also install Pygame. Pre-compiled Pygame packages are available to pip
-for Windows & Linux (32-bit and 64-bit), and for Mac OS (64-bit only). If you
-have a different system, you'll need to find a way to install pygame first. Make
-sure you are using Python 3 not Python 2.
+Pygame també s'instal·larà. Hi ha paquets Pygame precompilats disponibles a pip
+per a Windows i Linux (32 bits i 64 bits) i per a Mac OS (només de 64 bits). Si
+tens un sistema diferent, primer hauràs de trobar la manera d'instal·lar pygame.
+Assegura't que utilitzes Python 3 i no Python 2.
 
-On Raspberry Pi
-~~~~~~~~~~~~~~~
+A la Raspberry Pi
+~~~~~~~~~~~~~~~~~
 
-pgzero has been installed by default since the release of Raspbian Jessie in
-September 2015!
+Pgzero està instal·lat per defecte des del llançament de Jessie Raspbian el
+setembre de 2015!
